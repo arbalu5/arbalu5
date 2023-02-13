@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucy
-- 👀 I’m interested in Tech & Ad Tech
-- 🌱 I’m currently learning CTV advertising
+- 👀 I’m interested in Coding & Ad Tech
+- 🌱 I’m currently learning CTV
 - 💞️ I’m looking to collaborate with Publishers & SSP
 - 📫 How to reach me anytime
